@@ -1,0 +1,17 @@
+# Core LangChain and Groq integration
+langchain==0.2.5
+langchain-groq==0.1.5
+
+# Community components for loaders and vector stores
+langchain-community==0.2.5
+
+# Embeddings and vector store dependencies
+langchain-huggingface==0.0.3
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+
+# LangSmith client for Hub access
+langsmith==0.1.75
+
+# Utility for .env files
+python-dotenv==1.0.1
